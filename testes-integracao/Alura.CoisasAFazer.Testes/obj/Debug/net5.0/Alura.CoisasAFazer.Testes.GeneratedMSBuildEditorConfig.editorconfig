@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = Alura.CoisasAFazer.Testes
-build_property.ProjectDir = C:\Users\duduh\OneDrive\Área de Trabalho\testes-integracao.projeto-inicial\testes-integracao\Alura.CoisasAFazer.Testes\
+build_property.ProjectDir = C:\Users\duduh\OneDrive\Área de Trabalho\IntegrationTest-Alura\testes-integracao\Alura.CoisasAFazer.Testes\

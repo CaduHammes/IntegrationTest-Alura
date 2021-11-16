@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2LrUkmUGAd6fIerNepRAM9RXEDRTvSdKF2DzmJeYFlE+QXQ5bMhtiACUatqLJffJNf7YRcUHxnb8jPImTh6p1w==",
+  "dgSpecHash": "QiQ4+CCg3Kx9kXo0Oq8FkelVbdeilHhe+LczJN4lv+i/nZumygIbq3smQx9U+iLPUcuXI9YiH0KFz4c3pOwaXg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\duduh\\OneDrive\\Área de Trabalho\\testes-integracao.projeto-inicial\\testes-integracao\\src\\Alura.CoisasAFazer.WebApp\\Alura.CoisasAFazer.WebApp.csproj",
+  "projectFilePath": "C:\\Users\\duduh\\OneDrive\\Área de Trabalho\\IntegrationTest-Alura\\testes-integracao\\src\\Alura.CoisasAFazer.WebApp\\Alura.CoisasAFazer.WebApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\duduh\\.nuget\\packages\\mediatr\\7.0.0\\mediatr.7.0.0.nupkg.sha512",
     "C:\\Users\\duduh\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.6\\microsoft.aspnet.webapi.client.5.2.6.nupkg.sha512",

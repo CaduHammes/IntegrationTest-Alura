@@ -13026,11 +13026,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\duduh\\OneDrive\\Área de Trabalho\\testes-integracao.projeto-inicial\\testes-integracao\\src\\Alura.CoisasAFazer.WebApp\\Alura.CoisasAFazer.WebApp.csproj",
+      "projectUniqueName": "C:\\Users\\duduh\\OneDrive\\Área de Trabalho\\IntegrationTest-Alura\\testes-integracao\\src\\Alura.CoisasAFazer.WebApp\\Alura.CoisasAFazer.WebApp.csproj",
       "projectName": "Alura.CoisasAFazer.WebApp",
-      "projectPath": "C:\\Users\\duduh\\OneDrive\\Área de Trabalho\\testes-integracao.projeto-inicial\\testes-integracao\\src\\Alura.CoisasAFazer.WebApp\\Alura.CoisasAFazer.WebApp.csproj",
+      "projectPath": "C:\\Users\\duduh\\OneDrive\\Área de Trabalho\\IntegrationTest-Alura\\testes-integracao\\src\\Alura.CoisasAFazer.WebApp\\Alura.CoisasAFazer.WebApp.csproj",
       "packagesPath": "C:\\Users\\duduh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\duduh\\OneDrive\\Área de Trabalho\\testes-integracao.projeto-inicial\\testes-integracao\\src\\Alura.CoisasAFazer.WebApp\\obj\\",
+      "outputPath": "C:\\Users\\duduh\\OneDrive\\Área de Trabalho\\IntegrationTest-Alura\\testes-integracao\\src\\Alura.CoisasAFazer.WebApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\duduh\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -13047,14 +13047,14 @@
         "netcoreapp2.2": {
           "targetAlias": "netcoreapp2.2",
           "projectReferences": {
-            "C:\\Users\\duduh\\OneDrive\\Área de Trabalho\\testes-integracao.projeto-inicial\\testes-integracao\\src\\Alura.CoisasAFazer.Core\\Alura.CoisasAFazer.Core.csproj": {
-              "projectPath": "C:\\Users\\duduh\\OneDrive\\Área de Trabalho\\testes-integracao.projeto-inicial\\testes-integracao\\src\\Alura.CoisasAFazer.Core\\Alura.CoisasAFazer.Core.csproj"
+            "C:\\Users\\duduh\\OneDrive\\Área de Trabalho\\IntegrationTest-Alura\\testes-integracao\\src\\Alura.CoisasAFazer.Core\\Alura.CoisasAFazer.Core.csproj": {
+              "projectPath": "C:\\Users\\duduh\\OneDrive\\Área de Trabalho\\IntegrationTest-Alura\\testes-integracao\\src\\Alura.CoisasAFazer.Core\\Alura.CoisasAFazer.Core.csproj"
             },
-            "C:\\Users\\duduh\\OneDrive\\Área de Trabalho\\testes-integracao.projeto-inicial\\testes-integracao\\src\\Alura.CoisasAFazer.Infrastructure\\Alura.CoisasAFazer.Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\duduh\\OneDrive\\Área de Trabalho\\testes-integracao.projeto-inicial\\testes-integracao\\src\\Alura.CoisasAFazer.Infrastructure\\Alura.CoisasAFazer.Infrastructure.csproj"
+            "C:\\Users\\duduh\\OneDrive\\Área de Trabalho\\IntegrationTest-Alura\\testes-integracao\\src\\Alura.CoisasAFazer.Infrastructure\\Alura.CoisasAFazer.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\duduh\\OneDrive\\Área de Trabalho\\IntegrationTest-Alura\\testes-integracao\\src\\Alura.CoisasAFazer.Infrastructure\\Alura.CoisasAFazer.Infrastructure.csproj"
             },
-            "C:\\Users\\duduh\\OneDrive\\Área de Trabalho\\testes-integracao.projeto-inicial\\testes-integracao\\src\\Alura.CoisasAFazer.Services\\Alura.CoisasAFazer.Services.csproj": {
-              "projectPath": "C:\\Users\\duduh\\OneDrive\\Área de Trabalho\\testes-integracao.projeto-inicial\\testes-integracao\\src\\Alura.CoisasAFazer.Services\\Alura.CoisasAFazer.Services.csproj"
+            "C:\\Users\\duduh\\OneDrive\\Área de Trabalho\\IntegrationTest-Alura\\testes-integracao\\src\\Alura.CoisasAFazer.Services\\Alura.CoisasAFazer.Services.csproj": {
+              "projectPath": "C:\\Users\\duduh\\OneDrive\\Área de Trabalho\\IntegrationTest-Alura\\testes-integracao\\src\\Alura.CoisasAFazer.Services\\Alura.CoisasAFazer.Services.csproj"
             }
           }
         }

@@ -26,3 +26,17 @@ C:\Users\duduh\OneDrive\Área de Trabalho\testes-integracao.projeto-inicial\test
 C:\Users\duduh\OneDrive\Área de Trabalho\testes-integracao.projeto-inicial\testes-integracao\src\Alura.CoisasAFazer.Services\obj\Debug\netstandard2.0\Alura.CoisasAFazer.Services.csproj.CoreCompileInputs.cache
 C:\Users\duduh\OneDrive\Área de Trabalho\testes-integracao.projeto-inicial\testes-integracao\src\Alura.CoisasAFazer.Services\obj\Debug\netstandard2.0\Alura.CoisasAFazer.Services.dll
 C:\Users\duduh\OneDrive\Área de Trabalho\testes-integracao.projeto-inicial\testes-integracao\src\Alura.CoisasAFazer.Services\obj\Debug\netstandard2.0\Alura.CoisasAFazer.Services.pdb
+C:\Users\duduh\OneDrive\Área de Trabalho\IntegrationTest-Alura\testes-integracao\src\Alura.CoisasAFazer.Services\bin\Debug\netstandard2.0\Alura.CoisasAFazer.Services.deps.json
+C:\Users\duduh\OneDrive\Área de Trabalho\IntegrationTest-Alura\testes-integracao\src\Alura.CoisasAFazer.Services\bin\Debug\netstandard2.0\Alura.CoisasAFazer.Services.dll
+C:\Users\duduh\OneDrive\Área de Trabalho\IntegrationTest-Alura\testes-integracao\src\Alura.CoisasAFazer.Services\bin\Debug\netstandard2.0\Alura.CoisasAFazer.Services.pdb
+C:\Users\duduh\OneDrive\Área de Trabalho\IntegrationTest-Alura\testes-integracao\src\Alura.CoisasAFazer.Services\bin\Debug\netstandard2.0\Alura.CoisasAFazer.Core.dll
+C:\Users\duduh\OneDrive\Área de Trabalho\IntegrationTest-Alura\testes-integracao\src\Alura.CoisasAFazer.Services\bin\Debug\netstandard2.0\Alura.CoisasAFazer.Infrastructure.dll
+C:\Users\duduh\OneDrive\Área de Trabalho\IntegrationTest-Alura\testes-integracao\src\Alura.CoisasAFazer.Services\bin\Debug\netstandard2.0\Alura.CoisasAFazer.Core.pdb
+C:\Users\duduh\OneDrive\Área de Trabalho\IntegrationTest-Alura\testes-integracao\src\Alura.CoisasAFazer.Services\bin\Debug\netstandard2.0\Alura.CoisasAFazer.Infrastructure.pdb
+C:\Users\duduh\OneDrive\Área de Trabalho\IntegrationTest-Alura\testes-integracao\src\Alura.CoisasAFazer.Services\obj\Debug\netstandard2.0\Alura.CoisasAFazer.Services.csproj.AssemblyReference.cache
+C:\Users\duduh\OneDrive\Área de Trabalho\IntegrationTest-Alura\testes-integracao\src\Alura.CoisasAFazer.Services\obj\Debug\netstandard2.0\Alura.CoisasAFazer.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\duduh\OneDrive\Área de Trabalho\IntegrationTest-Alura\testes-integracao\src\Alura.CoisasAFazer.Services\obj\Debug\netstandard2.0\Alura.CoisasAFazer.Services.AssemblyInfoInputs.cache
+C:\Users\duduh\OneDrive\Área de Trabalho\IntegrationTest-Alura\testes-integracao\src\Alura.CoisasAFazer.Services\obj\Debug\netstandard2.0\Alura.CoisasAFazer.Services.AssemblyInfo.cs
+C:\Users\duduh\OneDrive\Área de Trabalho\IntegrationTest-Alura\testes-integracao\src\Alura.CoisasAFazer.Services\obj\Debug\netstandard2.0\Alura.CoisasAFazer.Services.csproj.CoreCompileInputs.cache
+C:\Users\duduh\OneDrive\Área de Trabalho\IntegrationTest-Alura\testes-integracao\src\Alura.CoisasAFazer.Services\obj\Debug\netstandard2.0\Alura.CoisasAFazer.Services.dll
+C:\Users\duduh\OneDrive\Área de Trabalho\IntegrationTest-Alura\testes-integracao\src\Alura.CoisasAFazer.Services\obj\Debug\netstandard2.0\Alura.CoisasAFazer.Services.pdb

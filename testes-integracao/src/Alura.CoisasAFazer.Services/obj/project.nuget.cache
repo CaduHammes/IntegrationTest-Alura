@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/ZZQ4cXuw5+LulDRDl/uvZkmFIzrPwflzTnZsMsfF4D/LjdVIoHBSxbdU9mn6UdkTsVHON/fnBtNQvVUPQDIRA==",
+  "dgSpecHash": "RM7YsuyGSZ5gdo54+3sEzUohlEUuLJdkRENupwz7tm5bwUerm83uWjrFTMXDXxt2391JiILpoY/OLpSOCV2SPQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\duduh\\OneDrive\\Área de Trabalho\\testes-integracao.projeto-inicial\\testes-integracao\\src\\Alura.CoisasAFazer.Services\\Alura.CoisasAFazer.Services.csproj",
+  "projectFilePath": "C:\\Users\\duduh\\OneDrive\\Área de Trabalho\\IntegrationTest-Alura\\testes-integracao\\src\\Alura.CoisasAFazer.Services\\Alura.CoisasAFazer.Services.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\duduh\\.nuget\\packages\\mediatr\\7.0.0\\mediatr.7.0.0.nupkg.sha512",
     "C:\\Users\\duduh\\.nuget\\packages\\microsoft.entityframeworkcore\\2.2.6\\microsoft.entityframeworkcore.2.2.6.nupkg.sha512",
